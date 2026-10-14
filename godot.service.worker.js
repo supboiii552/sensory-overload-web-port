@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1.0.0-8f4f2686-95222112';
+const CACHE_VERSION = '1.0.0-ce440866-95222944';
 /** @type {string} */
 const CACHE_PREFIX = 'sensory-overload-web-port-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
